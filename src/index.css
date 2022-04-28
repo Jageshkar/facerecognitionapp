@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: "Lucida Sans Typewriter";
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, rgb(15, 29, 230), rgb(255, 255, 0));
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+button {
+  cursor: pointer;
+}

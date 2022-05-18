@@ -23,7 +23,7 @@ class Register extends React.Component {
     }
 
     onSubmitRegister = () => {
-        fetch('https://git.heroku.com/frozen-tor-57173.git/register',
+        fetch('https://frozen-tor-57173.herokuapp.com/register',
         {
             method: 'post',
             headers: {'Content-Type': 'application/json'},
